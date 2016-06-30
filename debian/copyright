@@ -1,4 +1,9 @@
-Copyright (C) 2005-2014 by Index Data.
+Upstream-Name: ZOOM-Perl
+Source: http://indexdata.com/zoom-perl/
+
+Copyright: Copyright (C) 2005-2016 Index Data
+
+License: Perl
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.4 or,
